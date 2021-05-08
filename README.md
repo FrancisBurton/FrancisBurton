@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fburton8
+- 👋 Hi, I’m @FrancisBurton
 - 👀 I’m interested in scientific software for data collection (images, signals) and analysis.
 - 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on something potentially important (not sure what yet).
